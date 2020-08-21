@@ -6,9 +6,9 @@
    <h1><b> <u>Introduction</u> (<u>Round 0</u>)  </h1>
    <br>
    <table>
-   	<tr><th> Discipline</th> <td>Computer Science and Engineering</td></tr>
-   	<tr><th> Lab</th><td>Database Management System Lab</td></tr>
-   	<tr><th>Experiment</th><td>Define Data Query Language (DQL) Statements.<br> Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING clause.</td></tr>
+   	<tr><td> Discipline</td> <td>Computer Science and Engineering</td></tr>
+   	<tr><td> Lab</td><td>Database Management System Lab</td></tr>
+   	<tr><td>Experiment</td><td>Define Data Query Language (DQL) Statements.<br> Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING clause.</td></tr>
    </table>
    <br>
 	   <h3><b>About the Lab(Objective):</b></h3>	
@@ -25,7 +25,7 @@
 	   <tr><td ><b>Institute</td><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
 	   <tr><td ><b>Institute</td><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
 	   <tr><td ><b>Email id</b></td> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</b></td></tr>
-	   <tr><th><b>Department</b></th><td>Computer Science & Engineering</td></tr>
+	   <tr><td><b>Department</b></td><td>Computer Science & Engineering</td></tr>
 
    </table>
    <br>
@@ -57,9 +57,9 @@
 		<h1><b> <u>Introduction</u> (<u>Round 0</u>)  </h1>
 			<br>
    <table border="1%">
-   	<tr><th> Discipline</th> <td>Computer Science and Engineering</td></tr>
-   	<tr><th> Lab</th><td>Database Management System Lab</td></tr>
-   	<tr><th>Experiment</th><td>Define Data Manipulation Language (DML) Statements. Write a DML commands to insert data into a table and manipulate the table data using update and delete command.</td></tr>
+   	<tr><td> Discipline</td> <td>Computer Science and Engineering</td></tr>
+   	<tr><td> Lab</td><td>Database Management System Lab</td></tr>
+   	<tr><td>Experiment</td><td>Define Data Manipulation Language (DML) Statements. Write a DML commands to insert data into a table and manipulate the table data using update and delete command.</td></tr>
    </table>
    <br>
 			<h3><b>About the Lab(Objective):</b></h3>	
@@ -72,20 +72,20 @@
 	<p>AKTU</p>
    <br>
    <table>
-	   <tr><th ><b>Name of Developer</b></th><td><b>Abhishek Kumar</b></td></tr>
-	   <tr><th ><b>Insrtitute</th><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
-	   <tr><th ><b>Institute</th><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
-	   <tr><th ><b>Email id</b></th> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</b></td></tr>
+	   <tr><td ><b>Name of Developer</b></td><td><b>Abhishek Kumar</b></td></tr>
+	   <tr><td ><b>Insrtitute</td><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
+	   <tr><td><b>Institute</td><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
+	   <tr><td ><b>Email id</b></td> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</b></td></tr>
 	   <tr><th><b>Department</b></th><td>Computer Science & Engineering</td></tr>
 
    </table>
    <br>
     <h3><b>Mentor Details:</b></h3>
     <table>
-    	<tr><th ><b>Mentored by</b></th><td><b>Sheetal Singh</b></td></tr>
-    	<tr><th ><b>Institute</th></b><td><b>IIT Kanpur</b></td></tr>
-    	<tr><TH><b>Email id</b></TH><td><a href="mailto:sheetals@iitk.ac.in"><b>sheetals@iitk.ac.in</b></td></tr>
-    	<tr><th><b>Department</b></th><td>Virtual Lab</td></tr>
+    	<tr><td><b>Mentored by</b></td><td><b>Sheetal Singh</b></td></tr>
+    	<tr><td><b>Institute</td></b><td><b>IIT Kanpur</b></td></tr>
+    	<tr><TD><b>Email id</b></TD><td><a href="mailto:sheetals@iitk.ac.in"><b>sheetals@iitk.ac.in</b></td></tr>
+    	<tr><td><b>Department</b></td><td>Virtual Lab</td></tr>
     </table> 
     <br>
         <h3>Contributors List:</h3><br>
@@ -108,9 +108,9 @@
    <h1><b> <u>Introduction</u> (<u>Round 0</u>)  </h1>
    <br>
    <table border="1%">
-   	<tr><th> Discipline</th> <td>Computer Science and Engineering</td></tr>
-   	<tr><th> Lab</th><td>Database Management System Lab</td></tr>
-   	<tr><th>Experiment</th><td>Define Data Query Language (DQL) Statements. Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING
+   	<tr><td> Discipline</td> <td>Computer Science and Engineering</td></tr>
+   	<tr><td> Lab</td><td>Database Management System Lab</td></tr>
+   	<tr><td>Experiment</td><td>Define Data Query Language (DQL) Statements. Write a DQL commands to retrieve records from one or more tables. Also use various clauses available in the SELECT statement like- WHERE, GROUP BY, ORDER BY and HAVING
 clause.</td></tr>
    </table>
    <br>
@@ -124,20 +124,20 @@ clause.</td></tr>
 	<p>AKTU</p>
    <br>
    <table>
-	   <tr><th ><b>Name of Developer</b></th><td><b>Abhishek Kumar</b></td></tr>
-	   <tr><th ><b>Insrtitute</th><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
-	   <tr><th ><b>Institute</th><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
-	   <tr><th ><b>Email id</b></th> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</b></td></tr>
-	   <tr><th><b>Department</b></th><td>Computer Science & Engineering</td></tr>
+	   <tr><td ><b>Name of Developer</b></td><td><b>Abhishek Kumar</b></td></tr>
+	   <tr><td><b>Insrtitute</td><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
+	   <tr><td><b>Institute</td><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
+	   <tr><td ><b>Email id</b></td> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</b></td></tr>
+	   <tr><td><b>Department</b></td><td>Computer Science & Engineering</td></tr>
 
    </table>
    <br>
     <h3><b>Mentor Details:</b></h3>
     <table>
-    	<tr><th ><b>Mentored by</b></th><td><b>Sheetal Singh</b></td></tr>
-    	<tr><th ><b>Institute</th></b><td><b>IIT Kanpur</b></td></tr>
-    	<tr><TH><b>Email id</b></TH><td><a href="mailto:sheetals@iitk.ac.in"><b>sheetals@iitk.ac.in</b></td></tr>
-    	<tr><th><b>Department</b></th><td>Virtual Lab</td></tr>
+    	<tr><td><b>Mentored by</b></td><td><b>Sheetal Singh</b></td></tr>
+    	<tr><td><b>Institute</td></b><td><b>IIT Kanpur</b></td></tr>
+    	<tr><TD><b>Email id</b></TD><td><a href="mailto:sheetals@iitk.ac.in"><b>sheetals@iitk.ac.in</b></td></tr>
+    	<tr><th><b>Department</b></td><td>Virtual Lab</td></tr>
     </table> 
     <br>
         <h3>Contributors List:</h3><br>
