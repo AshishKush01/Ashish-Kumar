@@ -20,7 +20,7 @@
    	<h3><b>Course Alignment:</h3>
 	<p>B.Tech , M.C.A</p>
 <h3><b>Universities Mapped:</h3>
-<p>AKTU</p>
+<p>AKTU , Lucknow</p>
 	
 	
 		
@@ -79,7 +79,7 @@
    	<h3><b>Course Alignment:</h3>
 	<p>B.Tech , M.C.A</p>
 	<h3><b>Universities Mapped:</h3>
-	<p>AKTU</p>
+	<p>AKTU , Lucknow</p>
    <br>
    <table>
 	   <tr><td ><b>Name of Developer</b></td><td><b>Abhishek Kumar</b></td></tr>
@@ -133,7 +133,7 @@ clause.</td></tr>
    	<h3><b>Course Alignment:</h3>
 	<p>B.Tech , M.C.A</p>
 	<h3><b>Universities Mapped:</h3>
-	<p>AKTU</p>
+	<p>AKTU , Lucknow</p>
    <br>
    <table>
 	   <tr><td ><b>Name of Developer</b></td><td><b>Abhishek Kumar</b></td></tr>
