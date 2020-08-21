@@ -17,8 +17,16 @@
    	<p>In this experiment,students can learn about SELECT commands and use various clauses (like- WHERE, GROUP BY, ORDER BY and HAVING clause) associated with SELECT    command.These clauses help us to filter the records. <br>With the help of SELECT command we can view those columns which we want to retrieve in the specified table. </p>
 	   <h3><b>Target Audience:</b></h3>
    	<p>Student and Faculty Members who want to learn Database Management System.</p>
-   	<h3><b>Universities Mapped:</h3>
-	<p>AKTU</p>
+   	<h3><b>Course Alignment:</h3>
+	<p>B.Tech , M.C.A</p>
+<h3><b>Universities Mapped:</h3>
+<p>AKTU</p>
+	
+	
+		
+	
+
+	
    <br>
    <table>
 	   <tr><td ><b>Name of Developer</b></td><td><b>Abhishek Kumar</b></td></tr>
@@ -68,7 +76,9 @@
    	<p>In this experiment students learn DML commands like-INSERT, UPDATE and DELETE. This will help the students to learn how to insert one or more records into a table, how to remove specified rows from a table, how to update selected records into the table, how to update all records and how to delete all records.</p>
 	   <h3><b>Target Audience:</b></h3>
    	<p>Students and Teachers who want to learn Database Lab</p>
-   	<h3><b>Universities Mapped:</h3>
+   	<h3><b>Course Alignment:</h3>
+	<p>B.Tech , M.C.A</p>
+	<h3><b>Universities Mapped:</h3>
 	<p>AKTU</p>
    <br>
    <table>
@@ -120,7 +130,9 @@ clause.</td></tr>
    	<p>In this experiment students learn about SELECT commands and use various clauses (like- WHERE, GROUP BY, ORDER BY and HAVING clause) associated with SELECT command. These clauses help us to filter the records. With the help of SELECT command we view those columns which we want in the specified table.</p>
 	   <h3><b>Target Audience:</b></h3>
    	<p>Students and Teachers who want to learn Database Lab.</p>
-   	<h3><b>Universities Mapped:</h3>
+   	<h3><b>Course Alignment:</h3>
+	<p>B.Tech , M.C.A</p>
+	<h3><b>Universities Mapped:</h3>
 	<p>AKTU</p>
    <br>
    <table>
