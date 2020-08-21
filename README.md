@@ -21,20 +21,20 @@
 	<p>AKTU</p>
    <br>
    <table>
-	   <tr><th ><b>Name of Developer</b></th><td><b>Abhishek Kumar</b></td></tr>
-	   <tr><th ><b>Insrtitute</th><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
-	   <tr><th ><b>Institute</th><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
-	   <tr><th ><b>Email id</b></th> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</b></td></tr>
+	   <tr><td ><b>Name of Developer</b></td><td><b>Abhishek Kumar</b></td></tr>
+	   <tr><td ><b>Institute</td><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
+	   <tr><td ><b>Institute</td><td>Meerut Institute of Engineering & Technology, Meerut</b></td></tr>
+	   <tr><td ><b>Email id</b></td> <td><a href="mailto:abhishek.kumar@miet.ac.in"><b>abhishek.kumar@miet.ac.in</b></td></tr>
 	   <tr><th><b>Department</b></th><td>Computer Science & Engineering</td></tr>
 
    </table>
    <br>
     <h3><b>Mentor Details:</b></h3>
     <table>
-    	<tr><th ><b>Mentored by</b></th><td><b>Sheetal Singh</b></td></tr>
-    	<tr><th ><b>Institute</th></b><td><b>IIT Kanpur</b></td></tr>
-    	<tr><TH><b>Email id</b></TH><td><a href="mailto:sheetals@iitk.ac.in"><b>sheetals@iitk.ac.in</b></td></tr>
-    	<tr><th><b>Department</b></th><td>Virtual Lab</td></tr>
+    	<tr><td ><b>Mentored by</b></td><td><b>Sheetal Singh</b></td></tr>
+    	<tr><td><b>Institute</td></b><td><b>IIT Kanpur</b></td></tr>
+    	<tr><TD><b>Email id</b></TD><td><a href="mailto:sheetals@iitk.ac.in"><b>sheetals@iitk.ac.in</b></td></tr>
+    	<tr><td><b>Department</b></td><td>Virtual Lab</td></tr>
     </table> 
     <br>
         <h3>Contributors List:</h3><br>
